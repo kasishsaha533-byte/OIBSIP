@@ -50,13 +50,13 @@ After each guess, the player receives a hint indicating whether the guess is too
 
 ```text
 Java-Task2-NumberGuessingGame/
+├── screenshots/
+│   ├── OutputSS1.png
+│   └── OutputSS2.png
 ├── src/
 │   └── NumberGuessingGame.java
-├── screenshots/
-│   ├── OutputSS1
-│   └── OutputSS2
-├── README.md
-└── .gitignore
+├── .gitignore
+└── README.md
 ```
 
 ## OIBSIP
