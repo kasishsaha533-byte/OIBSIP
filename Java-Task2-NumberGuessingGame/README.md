@@ -59,6 +59,16 @@ Java-Task2-NumberGuessingGame/
 └── README.md
 ```
 
+## Screenshots
+
+### Game Output 1
+
+![Game Output 1](screenshots/OutputSS1.png)
+
+### Game Output 2
+
+![Game Output 2](screenshots/OutputSS2.png)
+
 ## OIBSIP
 
 This project was developed as part of the OIBSIP Java Development Internship.
