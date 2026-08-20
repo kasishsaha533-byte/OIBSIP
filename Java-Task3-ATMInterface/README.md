@@ -241,11 +241,11 @@ Enter PIN: 1234
 
 ![ATM Transactions](./screenshots/Output_SS2.png)
 
-### Insufficient Funds
+### Transaction History
 
 ![Insufficient Funds](./screenshots/Output_SS3.png)
 
-### Transaction History
+### Insufficient Funds
 
 ![Transaction History](./screenshots/Output_SS4.png)
 
