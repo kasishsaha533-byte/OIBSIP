@@ -237,7 +237,7 @@ Enter PIN: 1234
 
 ![ATM Login and Menu](./screenshots/Output_SS1.png)
 
-### Transactions
+### Deposit
 
 ![ATM Transactions](./screenshots/Output_SS2.png)
 
