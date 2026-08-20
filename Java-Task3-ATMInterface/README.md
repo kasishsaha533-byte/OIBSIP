@@ -239,15 +239,15 @@ Enter PIN: 1234
 
 ### Deposit
 
-![ATM Transactions](./screenshots/Output_SS2.png)
+![ATM Deposit](./screenshots/Output_SS2.png)
 
-### Transaction History
+### Transaction & Transaction History
 
-![Insufficient Funds](./screenshots/Output_SS3.png)
+![ATM Transactions](./screenshots/Output_SS3.png)
 
 ### Insufficient Funds
 
-![Transaction History](./screenshots/Output_SS4.png)
+![Insufficient Funds](./screenshots/Output_SS4.png)
 
 ### ATM Output
 
