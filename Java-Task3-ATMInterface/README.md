@@ -235,23 +235,23 @@ Enter PIN: 1234
 
 ### ATM Login and Menu
 
-![ATM Login and Menu](./screenshots/OutputSS1.png)
+![ATM Login and Menu](./screenshots/Output_SS1.png)
 
 ### Transactions
 
-![ATM Transactions](./screenshots/OutputSS2.png)
+![ATM Transactions](./screenshots/Output_SS2.png)
 
 ### Insufficient Funds
 
-![Insufficient Funds](./screenshots/OutputSS3.png)
+![Insufficient Funds](./screenshots/Output_SS3.png)
 
 ### Transaction History
 
-![Transaction History](./screenshots/OutputSS4.png)
+![Transaction History](./screenshots/Output_SS4.png)
 
 ### ATM Output
 
-![ATM Output](./screenshots/OutputSS5.png)
+![ATM Output](./screenshots/Output_SS5.png)
 
 ---
 
